@@ -1,0 +1,12 @@
+{
+  "name": "SR_W8_T1-testing-task-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test":"jest --watch *.js"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
